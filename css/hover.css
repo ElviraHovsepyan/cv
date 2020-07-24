@@ -1,0 +1,22 @@
+@media only screen and (min-width: 768px) {
+    .dropdown-menu.user-functions a:hover{
+        color: #fe2222;
+    }
+
+    .project-list a:hover:before, .company:hover:before{
+        width: 100%;
+    }
+
+    header .info-list a:hover{
+        opacity: .6;
+    }
+
+    header .info-list li.location:hover .icon,
+    header .info-list li:not(:last-of-type) a:hover .icon{
+        -webkit-transform: rotateY(180deg);
+        -moz-transform: rotateY(180deg);
+        -ms-transform: rotateY(180deg);
+        -o-transform: rotateY(180deg);
+        transform: rotateY(180deg);
+    }
+}

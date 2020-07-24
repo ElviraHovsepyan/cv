@@ -1,0 +1,46 @@
+
+@media screen and (max-width: 1200px){
+    .bg-pink .img-block{
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .bg-pink.content{
+        height: 380px;
+        padding: 20px 10px 20px 20px;
+    }
+
+    .right-block .content{
+        height: 300px;
+        padding-bottom: 20px;
+    }
+
+    .mb-mb-10{
+        margin-bottom: 10px;
+    }
+
+    .form-group.position-relative.search-block.mb-0{
+        padding: 10px;
+    }
+
+    .profile-info .dropdown-menu.user-functions{
+        left:5px !important;
+    }
+
+    .text-url{
+        margin-left: 0 !important;
+        margin-top: 10px;
+    }
+
+    .mb-fs-26{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 560px){
+    .mb-w-50{
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
