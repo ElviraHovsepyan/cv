@@ -150,7 +150,7 @@ header .img-block{
 }
 
 .circle-span{
-    width: 50%;
+    min-width: 40%;
     display: inline-block;
     float: right;
 }
