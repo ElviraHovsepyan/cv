@@ -36,6 +36,17 @@
     .mb-fs-26{
         font-size: 26px;
     }
+
+    .img-block{
+        max-height: initial!important;
+        max-width: initial!important;
+        display: block;
+    }
+    .circle-span{
+        min-width: 100%;
+        display: inline-block;
+        float: left;
+    }
 }
 @media screen and (max-width: 560px){
     .mb-w-50{
