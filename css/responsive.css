@@ -49,7 +49,7 @@
     }
 
     .lang-h4{
-        margin-top: 10px;
+        margin-top: -20px;
     }
 
     .educ-h4{
@@ -58,6 +58,10 @@
 
     .inter-h4{
         margin-top: 10px;
+    }
+
+    .work-h4{
+        margin-top: -30px;
     }
 }
 @media screen and (max-width: 560px){
