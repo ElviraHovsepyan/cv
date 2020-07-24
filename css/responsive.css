@@ -47,6 +47,18 @@
         display: inline-block;
         float: left;
     }
+
+    .lang-h4{
+        margin-top: 10px;
+    }
+
+    .educ-h4{
+        margin-top: 10px;
+    }
+
+    .inter-h4{
+        margin-top: 10px;
+    }
 }
 @media screen and (max-width: 560px){
     .mb-w-50{
